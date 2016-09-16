@@ -24,4 +24,6 @@ Min stake age : 1 hour
 
 6 confirmations required for transactions
 
+If have some compilation error, try to create folder obj inside the SRC Folder
+
 
